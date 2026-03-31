@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PRAKTIKAN\\Downloads\\Modul5_103022400122\\",
+  "WorkspaceRootPath": "D:\\Modul5_103022400122\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CDD5B39-889D-404C-8804-C90271E4AA50}|Modul5_103022400122\\Modul5_103022400122.csproj|c:\\users\\praktikan\\downloads\\modul5_103022400122\\modul5_103022400122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CDD5B39-889D-404C-8804-C90271E4AA50}|Modul5_103022400122\\Modul5_103022400122.csproj|d:\\modul5_103022400122\\modul5_103022400122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CDD5B39-889D-404C-8804-C90271E4AA50}|Modul5_103022400122\\Modul5_103022400122.csproj|solutionrelative:modul5_103022400122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PRAKTIKAN\\Downloads\\Modul5_103022400122\\Modul5_103022400122\\Program.cs",
+              "DocumentMoniker": "D:\\Modul5_103022400122\\Modul5_103022400122\\Program.cs",
               "RelativeDocumentMoniker": "Modul5_103022400122\\Program.cs",
-              "ToolTip": "C:\\Users\\PRAKTIKAN\\Downloads\\Modul5_103022400122\\Modul5_103022400122\\Program.cs",
+              "ToolTip": "D:\\Modul5_103022400122\\Modul5_103022400122\\Program.cs",
               "RelativeToolTip": "Modul5_103022400122\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T00:00:59.197Z",
               "EditorCaption": ""
